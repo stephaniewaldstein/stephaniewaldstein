@@ -1,0 +1,46 @@
+.poem {
+  margin: 5px;
+  padding: 20px;
+  font-size: 20px;
+
+}
+
+.poem .title {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+.poem .author{
+  font-family: sans-serif;
+  font-weight: 200;
+  color: dimgrey;
+  text-transform: uppercase;
+  font-size: 20px;
+  margin-bottom: 15px;
+
+}
+.poem .author a{
+  color: black;
+}
+
+.poem .author a:hover{
+  color: purple; text-decotration: none;
+}
+
+.poem .stanza {
+  font-family: serif;
+  text-align: center;
+  text-indent: 20px;
+  line-height:50%;
+  font-weight: 550;
+  text-transform: lowercase;
+}
+.poem .copyright {
+  font-family: sans-serif;
+  font-size: 10px;
+  color: grey;
+  font-weight: bolder;
+
+}
