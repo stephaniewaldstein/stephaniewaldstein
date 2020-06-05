@@ -1,4 +1,4 @@
-main{
+main {
   background-color: #e6ccff;
   font-family:monospace;
   padding-top: 70px
@@ -14,12 +14,12 @@ nav.top-nav {
   padding-left: 1em;
 }
 
-nav.top-nav ul{
+nav.top-nav ul {
   list-style: none;
   padding: 0px;
 }
 
-nav.top-nav li{
+nav.top-nav li {
   font-weight: bold;
   color: purple;
   margin: 5px;
@@ -30,10 +30,11 @@ nav.top-nav li{
   font-size:20px;
 }
 
-nav.top-nav  li:hover{
+nav.top-nav  li:hover {
   text-decoration: underline;
 }
- nav.top-nav li:active{
+
+ nav.top-nav li:active {
    color: salmon;
  }
 
@@ -42,7 +43,7 @@ h1 {
   text-decoration:underline;
 }
 
-.words-wrapper{
+.words-wrapper {
   padding-bottom: 10px;
   margin-left: 10px;
   font-size: 20px;
@@ -50,48 +51,44 @@ h1 {
   margin-right:10px;
 }
 
-.words-wrapper a{
-	color:black;
-}
-
 .project-wrapper {
-display:inline-grid;
-padding-right: 10px;
-margin-left:150px;
+	display:inline-grid;
+	padding-right: 10px;
+	margin-left:150px;
 }
 
 
-.project-wrapper a{
+.project-wrapper a {
 	color:black;
 	text-decoration: italic;
 }
 
-.project-wrapper a:hover{
+.project-wrapper a:hover {
 	color:black;
 	text-decoration:underline;
 }
-.project-wrapper a:active{
+
+.project-wrapper a:active {
 	color:salmon;
 }
 
 .project-art1 {
-  padding-left:20px;
-width: 400px;
-height: 400px;
-margin:auto;
+	padding-left:20px;
+	width: 400px;
+	height: 400px;
+	margin:auto;
 
 }
 
 .project-art2 {
-padding-left: 20px;
-width: 400px;
-height: 400px;
-margin:auto;
-
+	padding-left: 20px;
+	width: 400px;
+	height: 400px;
+	margin:auto;
 }
 
 .project-name {
-  font-size:15px;
+	font-size:15px;
 	text-align: center;
 	font-weight: bold;
 	padding-bottom:0px;
@@ -106,8 +103,6 @@ margin:auto;
 	color:salmon;
 }
 
-
-
 .end {
   padding-top: 10px;
   text-align:center;
@@ -115,29 +110,27 @@ margin:auto;
   padding-bottom: 30px;
   font-weight:bold;
 }
+
 .project-wrapper-page #project-art1 {
-display:inline-grid;
-height: 300px;
-width: 300px;
-margin-left:auto;
+	display:inline-grid;
+	height: 300px;
+	width: 300px;
+	margin-left:auto;
 }
 
-.project-wrapper-page{
+.project-wrapper-page {
   font-size:15px;
 }
 
 .project-wrapper-page #project-art2 {
-display:inline-grid;
-height: 300px;
-width: 300px;
-}
-p.project-wrapper-page  {
-text-align:right;
+	display:inline-grid;
+	height: 300px;
+	width: 300px;
 }
 
-.resume a{
-	color:black;
+p.project-wrapper-page  {
+	text-align:right;
 }
-.resume a.active{
-  color: salmon;
-}
+
+
+
