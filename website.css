@@ -50,6 +50,9 @@ h1 {
   margin-right:10px;
 }
 
+.words-wrapper a{
+	color:black;
+}
 
 .project-wrapper {
 display:inline-grid;
