@@ -94,6 +94,10 @@ margin:auto;
 	height:10px;
 }
 
+.project-name a:active{
+	color:salmon;
+}
+
 
 
 .end {
