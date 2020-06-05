@@ -59,6 +59,7 @@ margin-left:150px;
 
 
 .project-wrapper a{
+	color:black;
 	text-decoration: italic;
 }
 
@@ -94,6 +95,10 @@ margin:auto;
 	height:10px;
 }
 
+.project-name a{
+	color:black;
+}
+
 .project-name a:active{
 	color:salmon;
 }
@@ -127,7 +132,9 @@ p.project-wrapper-page  {
 text-align:right;
 }
 
-
+.resume a{
+	color:black;
+}
 .resume a.active{
   color: salmon;
 }
